@@ -54,4 +54,8 @@ A simple and interactive **Snake Water Gun Game** built using **Pygame**. In thi
 Feel free to contribute by opening issues or submitting pull requests for improvements.
 
 ---
+## Contact 
+For any inquiries or feedback , please reach out to me at https://www.linkedin.com/in/ishika-singh-294980285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 
